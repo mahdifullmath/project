@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1703719513 source:c:\users\mahdi\desktop\project\vm_placement_hho_obj\main.cpp
+	<iostream>
+	<vector>
+	<random>
+	<algorithm>
+
